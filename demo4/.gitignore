@@ -1,0 +1,26 @@
+# Visual Studio cache
+.vs/
+**/.vs/
+
+# Build output trong mọi folder
+[Dd]ebug/
+[Rr]elease/
+**/x64/
+**/x86/
+[Bb]in/
+[Oo]bj/
+
+# File biên dịch và debug
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.recipe
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+*.vsidx
+*.suo
